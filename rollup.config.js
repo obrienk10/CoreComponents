@@ -36,7 +36,9 @@ export default [
                 ],
                 tsconfig: "./tsconfig.json",
             }),
-            postcss(),
+            postcss({
+                modules: true,
+            }),
             terser(),
         ],
     },
