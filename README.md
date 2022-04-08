@@ -16,3 +16,7 @@ npm publish  --registry=https://npm.pkg.github.com/
 
 #### For info on creating & publishing a component library:
 https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe
+
+also:
+
+https://blog.harveydelaney.com/creating-your-own-react-component-library/
